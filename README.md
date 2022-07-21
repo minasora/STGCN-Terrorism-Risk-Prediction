@@ -8,15 +8,14 @@ The entire project is divided into two folds: "Preprocessing_part" and "Predicti
 ## Preprocessing_part: Data obtaining and multi-graph structures generation
 
 
-Due to GTD restrictions (see https://www.start.umd.edu/gtd/terms-of-use/), the authors cannot open source the terrorist attack data here. If anyone wants to reproduce the dataset, please download the latest GTD "globalterrorismdb_0522dist.xlsx" (see https://www.start.umd.edu/gtd/contact/), and put it in the "Preprocessing_part/AFG_GTD_data/" fold. 
+Due to GTD restrictions (see https://www.start.umd.edu/gtd/terms-of-use/), the authors cannot open source the terrorist attack data here. 
+
+If anyone wants to reproduce the dataset, please download the latest GTD "globalterrorismdb_0522dist.xlsx" (see https://www.start.umd.edu/gtd/contact/), and put it in the "Preprocessing_part/AFG_GTD_data/" fold. 
 
 ## Prediction_part: model training and prediction
 
 Usage: run "main.py"(deep learning models) and "mainML.py" (classical machine learning models)
 
-## Environment Requirements:
-pytorch == 1.10.1
-xgboost == 1.6.1
-sklearn == 1.1.1
+
 
 
