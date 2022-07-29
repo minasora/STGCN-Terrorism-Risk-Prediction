@@ -4,7 +4,10 @@
 Torch implementation for **Spatial-Temporal Multi-Graph Convolutional Network-based Provincial-Day level Terrorism Risk Prediction**.
 
 The entire project is divided into two folds: "Preprocessing_part" and "Prediction_part."  
-
+## Prequirements
+```
+pip install -r requirements.txt
+```
 ## Preprocessing_part: Data obtaining and multi-graph structures generation
 
 
