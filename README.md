@@ -1,7 +1,7 @@
 
 # STGCN for Terrorism Risk Prediction
 
-Torch implementation for Spatial-Temporal Multi-Graph Convolutional Network-based Provincial-Day level Terrorism Risk Prediction.
+Torch implementation for **Spatial-Temporal Multi-Graph Convolutional Network-based Provincial-Day level Terrorism Risk Prediction**.
 
 The entire project is divided into two folds: "Preprocessing_part" and "Prediction_part."  
 
