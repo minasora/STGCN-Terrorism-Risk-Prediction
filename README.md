@@ -15,6 +15,7 @@ If anyone wants to reproduce the dataset, please download the latest GTD "global
 ## Prediction_part: model training and prediction
 
 Usage: run "main.py"(deep learning models) and "mainML.py" (classical machine learning models)
+You can find pt file in save filefolder
 
 
 
